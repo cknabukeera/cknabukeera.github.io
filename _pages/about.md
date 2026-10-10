@@ -28,4 +28,4 @@ latest_posts:
 ---
 Welcome! I’m Kevin Cissy Nabukeera, a structural computational biologist and bioinformatician. I use structural biology and bioinformatics to study protein interactions, including how drugs and vaccines engage their targets. This work helps me assess treatments, screen small molecules, and design drugs and inhibitors.
 
-I’m committed to taking this work beyond in silico predictions, through to experimental validation, so that candidates are shown to do what they are designed to do. My research spans malaria, cancer genomics, and emerging and re-emerging infectious diseases.
+I’m committed to taking this work beyond in silico predictions, through to experimental validation, so that candidates are shown to do what they are designed to do as observed from in-silico predictions. My research spans malaria, cancer genomics, and emerging and re-emerging infectious diseases.
