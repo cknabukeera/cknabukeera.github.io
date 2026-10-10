@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>African Center of Excellence in Bioinformatics and Data-Intensive Sciences</p>
     <p>Infectious Diseases Institute</p>
-    <p>Makerere University, Kampala Uganda</p>
+    <p>Makerere University, Kampala, Uganda</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
